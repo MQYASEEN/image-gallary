@@ -118,7 +118,6 @@ npm run dev
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check out the [issues page](https://github.com/yourusername/image-gallery/issues) if you want to contribute.
 
 ## License
 
