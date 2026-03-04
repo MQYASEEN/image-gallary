@@ -2,7 +2,6 @@
 
 A modern, full-stack Artificial Intelligence image generation gallery built with Django, React (Vite), and the [Pollinations.ai](https://pollinations.ai/) API.
 
-![AI Image Gallery Showcase](docs/showcase.png) *(Note: Replace with an actual screenshot of your running app)*
 
 ## Features
 
